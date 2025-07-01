@@ -4,7 +4,7 @@
 <p align="center">🧠 Active student @ STT Texmaco | 🎨 Frontend Wizard | 😎 Code with Attitude</p>
 
 <p align="center">
-  <img src="assets/profile.png" width="280px" style="border-radius: 100%;"V />
+  <img src="assets/profile.png" width="820px" style="border-radius: 100%;"V />
 </p>
 
 <i>kesayangan Chaty &gt;_&lt;</i>
