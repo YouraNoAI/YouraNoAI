@@ -16,7 +16,7 @@ const LeftBanner = () => {
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY WORLD </h4>
         <h1 className="text-4xl font-bold text-white">
-          Hi, I'm <span className="text-designColor capitalize">Youra No AI</span>
+          Hi, I'm <span className="text-designColor capitalize">ARYA DANUWARTA</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
@@ -33,7 +33,7 @@ const LeftBanner = () => {
                 <FaGithub />
               </span>
             </a>
-            <a href="https://www.tiktok.com/@code_sheet" target="blank">
+            <a href="https://www.tiktok.com/@youranoai" target="blank">
               <span className="bannerIcon">
                 <FaTiktok />
               </span>
@@ -43,7 +43,7 @@ const LeftBanner = () => {
                 <FaInstagram />
               </span>
             </a>
-            <a href="https://www.youtube.com/@Code_Sheet" target="blank">
+            <a href="https://www.youtube.com/@youra_no_ai" target="blank">
               <span className="bannerIcon">
                 <FaYoutube />
               </span>
