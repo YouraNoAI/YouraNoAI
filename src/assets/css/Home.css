@@ -82,6 +82,10 @@
     color: var(--text-color);
 }
 
+.SearchProduct input:focus {
+    outline: none;
+}
+
 .SearchProduct input::placeholder {
     color: var(--text-color);
 }
