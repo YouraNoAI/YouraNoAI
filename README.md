@@ -1,39 +1,39 @@
+<div align=center>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║            ◀═══════ WELCOME TO MY DIGITAL DIMENSION ═══════▶              ║
+║            ◀═══════ WELCOME TO MY DIGITAL DIMENSION ═══════▶             ║
 ║                                                                           ║
-║                           🧠 YOURA NO AI 🧠                               ║
-║                    AI Surveillance • Frontend Wizard • Code Attitude      ║
+║                                 YOURA NO AI                               ║
+║             AI Surveillance • Frontend Wizard • Code Attitude             ║
 ║                                                                           ║
-║               ✨ Crafting Elegant Solutions Into Reality ✨               ║
+║                Crafting Elegant Solutions Into Reality                    ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
-### 🌌 FULL-STACK DEVELOPER • AI ENTHUSIAST • ETERNAL LEARNER 🌌
+### FULL-STACK DEVELOPER • AI ENTHUSIAST • ETERNAL LEARNER
 
 **Active Student @ STT Texmaco** | **Building Future Technologies** | **Code With Attitude**
 
 ---
 
-## 🚀 ABOUT ME
+## ABOUT ME
 
 </div>
 
-- 💻 **Specializing In**: React JS, Next.js, TypeScript, Tailwind CSS, Three.js, TensorFlow  
-- ⚙️ **Current Blueprint**: AI-powered surveillance & analytics tools with cutting-edge animations  
-- 📚 **Expanding Horizons**: Vue.js, Rust/WebAssembly, Advanced Machine Learning  
-- 🎮 **Code Philosophy**: Break creatively → Rebuild elegantly → Repeat with attitude 😎  
-- 🌙 **Secret Mission**: Implementing dark mode for all aspects of existence  
+- **Specializing In**: React JS, Next.js, TypeScript, Tailwind CSS, Three.js, TensorFlow  
+- **Current Blueprint**: AI-powered surveillance & analytics tools with cutting-edge animations  
+- **Expanding Horizons**: Vue.js, Rust/WebAssembly, Advanced Machine Learning  
+- **Code Philosophy**: Break creatively → Rebuild elegantly → Repeat with attitude
+- **Secret Mission**: Implementing dark mode for all aspects of existence  
 
 ---
 
-## 🎨 TECH ARSENAL ⚡
+## TECH ARSENAL
 
-### 🖥️ **Frontend Weaponry**
+### **Frontend Weaponry**
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=00FF88&logoHeight=30)
@@ -45,7 +45,7 @@
 
 </div>
 
-### ⚙️ **Backend & Database Engine**
+### **Backend & Database Engine**
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=00FFFF&logoHeight=30)
@@ -58,7 +58,7 @@
 
 </div>
 
-### 🤖 **AI & Machine Learning**
+### **AI & Machine Learning**
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF00FF&logoHeight=30)
@@ -68,7 +68,7 @@
 
 </div>
 
-### 🛠️ **DevOps & Infrastructure**
+### **DevOps & Infrastructure**
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoHeight=30)
@@ -80,7 +80,7 @@
 
 </div>
 
-### 📚 **UI Frameworks**
+### **UI Frameworks**
 <div align="center">
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoHeight=30)
@@ -91,19 +91,25 @@
 
 ---
 
-## 📊 GITHUB STATISTICS
+## GITHUB STATISTICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YouraNoAI&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&text_color=ffffff&title_color=00ff88&icon_color=ff00ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=YouraNoAI&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouraNoAI&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&text_color=ffffff&title_color=00ff88)
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YouraNoAI&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YouraNoAI&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YouraNoAI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 WHAT I'M BUILDING
+## WHAT I'M BUILDING
 
 ```
 ▶ AI-Powered Surveillance & Analytics Platform
@@ -119,12 +125,12 @@
 ▶ Full-Stack Applications
   ├─ Performance-optimized Next.js applications
   ├─ RESTful APIs with Express/NestJS
-  └─ Real-time updates with Database magic ✨
+  └─ Real-time updates with Database magic
 ```
 
 ---
 
-## 🌟 FEATURED TECH STACK BREAKDOWN
+## FEATURED TECH STACK BREAKDOWN
 
 ### **Frontend Architecture**
 - **React/Next.js**: Component-driven development with Server-Side Rendering
@@ -155,20 +161,20 @@
 
 ---
 
-## 💡 DEVELOPMENT PHILOSOPHY
+## DEVELOPMENT PHILOSOPHY
 
 > **"Code with Attitude"** — Break things creatively, rebuild elegantly, never settle for mediocrity.
 
 ### Core Principles:
-✨ **Performance First** - 60fps animations, optimized bundle sizes  
-🎨 **Aesthetic Excellence** - Beautiful UI/UX that delights users  
-🔐 **Security Focused** - Type safety, validation, best practices  
-📚 **Continuous Learning** - Always exploring new technologies  
-🚀 **Ship It** - From concept to production with confidence  
+**Performance First** - 60fps animations, optimized bundle sizes  
+**Aesthetic Excellence** - Beautiful UI/UX that delights users  
+**Security Focused** - Type safety, validation, best practices  
+**Continuous Learning** - Always exploring new technologies  
+**Ship It** - From concept to production with confidence  
 
 ---
 
-## 🔗 CONNECT & COLLABORATE
+## CONNECT & COLLABORATE
 
 <div align="center">
 
@@ -176,27 +182,26 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=00FF88)](https://github.com/YouraNoAI)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=FF00FF)](https://facebook.com/profile.php?id=100076013974278)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00FFFF)](https://instagram.com/Code_Sheet)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0080)](https://www.youtube.com/@Code_Sheet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00FFFF)](https://instagram.com/Youra_No_AI)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=FF0080)](https://www.youtube.com/@Youra_No_AI)
 
 ---
 
-### 📧 Let's Build Something Amazing Together!
+### Let's Build Something Amazing Together!
 
-**Email**: youranoia@example.com | **Portfolio**: [youranoia.dev](https://example.com)  
 **Portfolio Projects**: Checkout my latest work on [GitHub](https://github.com/YouraNoAI?tab=repositories)
 
 </div>
 
 ---
 
-## 🎓 EDUCATIONAL PATH
+## EDUCATIONAL PATH
 
 ```
 2024-Present  │ STT Texmaco - Information Technology
               │ ├─ Specialization: Full-Stack Development
               │ ├─ Current Focus: AI/ML Integration
-              │ └─ GPA: Securing Excellence 🎯
+              │ └─ GPA: Securing Excellence 
 
 Self-Taught   │ Advanced Frontend & AI Technologies
               │ ├─ Deep dive: React, Next.js, TypeScript
@@ -207,7 +212,7 @@ Self-Taught   │ Advanced Frontend & AI Technologies
 
 ---
 
-## 📈 CONTRIBUTIONS & ACTIVITY
+## CONTRIBUTIONS & ACTIVITY
 
 <div align="center">
 
@@ -224,9 +229,9 @@ Last 30 Days Performance:
 
 ---
 
-## 🎁 SHOWCASE & PROJECTS
+## SHOWCASE & PROJECTS
 
-### 🚀 Recent Highlighted Work:
+### Recent Highlighted Work:
 
 1. **AI Surveillance Dashboard** [Private • Active Development]
    - Real-time object detection & tracking
@@ -245,24 +250,24 @@ Last 30 Days Performance:
 
 ---
 
-## 🎬 ANIMATION & INTERACTION SHOWCASE
+## ANIMATION & INTERACTION SHOWCASE
 
 <div align="center">
 
-### ✨ Featured Animations:
+### Featured Animations:
 
 - **Pixel Snake** - Interactive canvas animation
 - **Glowing Stats** - Neon-styled GitHub statistics
 - **Smooth Transitions** - All interactions are buttery smooth
 - **Responsive Design** - Works perfectly on all devices
 
-**Animation Tools Used**: Anime.js ⚡ | Canvas API 🎮 | Framer Motion 🖼️ | Three.js 🌐
+**Animation Tools Used**: Anime.js | Canvas API | Framer Motion | Three.js
 
 </div>
 
 ---
 
-## 🔥 QUICK STATS
+## QUICK STATS
 
 <div align="center">
 
@@ -279,23 +284,23 @@ Last 30 Days Performance:
 
 ---
 
-## 🌐 AVAILABLE FOR
+## AVAILABLE FOR
 
-- 💼 **Freelance Projects** - Web development, full-stack applications
-- 🤝 **Collaborations** - Open source, experimental projects
-- 📚 **Mentoring** - Sharing knowledge with aspiring developers
-- 🎓 **Learning** - Always open to new technologies & challenges
+- **Freelance Projects** - Web development, full-stack applications
+- **Collaborations** - Open source, experimental projects
+- **Mentoring** - Sharing knowledge with aspiring developers
+- **Learning** - Always open to new technologies & challenges
 
 ---
 
-## 🎪 FUN FACTS
+## FUN FACTS
 
 ```
-🎮 Favorite Activity: Breaking code, then fixing it with style
-🌙 Productivity Peak: Late night coding sessions with lo-fi beats
-☕ Fuel: Coffee (black, no sugar, no mercy)
-🎵 Vibes: Lo-fi hip hop beats + ambient electronic music
-🌌 Dream Project: Building the next generation of AI tools
+Favorite Activity: Breaking code, then fixing it with style
+Productivity Peak: Late night coding sessions with lo-fi beats
+Fuel: Coffee (black, no sugar, no mercy)
+Vibes: Lo-fi hip hop beats + ambient electronic music
+Dream Project: Building the next generation of AI tools
 ```
 
 ---
@@ -305,20 +310,18 @@ Last 30 Days Performance:
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║              Let's Build The Future Together 🚀               ║
+║                Let's Build The Future Together                ║
 ║                                                               ║
-║              © 2025 | Built with 💪 by YouraNoAI             ║
+║               © 2025 | Built with  by YouraNoAI               ║
 ║            Contact • Collaborate • Create • Innovate          ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### 🌟 Thanks for Visiting My Digital Space! 🌟
+### Thanks for Visiting My Digital Space! 
 
 **Star my repos** if you find them useful • **Fork & contribute** to projects • **Follow** for updates
 
 ---
-
-**Last Updated**: April 9, 2026 | **Theme**: Cyberpunk/Neon 🔥 | **Status**: 🟢 Active Development
 
 </div>
