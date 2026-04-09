@@ -12,7 +12,7 @@ export default function Index() {
         <div className='Index'>
             <img src={Profile} className='profile' />
             <h1 className='name'>Youra No AI</h1>
-            <Link to="https://aryadanuwarta-git-portofolio-youranoais-projects.vercel.app/" className='Link'>Portofolio</Link>
+            <Link to="https://aryadanuwarta-youranoais-projects.vercel.app/" className='Link'>Portofolio</Link>
             <Sosmed />
             <SearchProduct />
             <Products />
