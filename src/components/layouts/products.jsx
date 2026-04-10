@@ -1,8 +1,8 @@
 import Instance from "../libs/axios"
-import { useEffect, useState } from "react"
+import { useEffect, useState, useMemo } from "react"
 
 
-export default function Products() {
+export default function Products({ searchTerm = "" }) {
 
     const Rp = new Intl.NumberFormat('id-ID', {
         style: 'currency',
@@ -19,7 +19,22 @@ export default function Products() {
         })
     }, [])
 
-    const products = getData.data ? getData.data : []
+    const allProducts = getData.data ? getData.data : []
+    
+    const products = useMemo(() => {
+        if (!searchTerm.trim()) {
+            return allProducts
+        }
+        
+        const lowerSearchTerm = searchTerm.toLowerCase().trim()
+        return allProducts.filter((item) => {
+            // Search by name or by ID
+            return (
+                item.name.toLowerCase().includes(lowerSearchTerm) ||
+                item.id.toString().includes(lowerSearchTerm)
+            )
+        })
+    }, [allProducts, searchTerm])
     return (
         <div className="Products">
             {
